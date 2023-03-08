@@ -1,0 +1,1 @@
+export { AssetModel } from './asset';
